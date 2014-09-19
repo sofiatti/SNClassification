@@ -1,0 +1,16 @@
+create_file(1000, 'f105w', 'f140w', 1.55, 0, 'sn_data.csv')
+(Type Ia) (Type Ibc) (Type II)
+(340,) (440,) (220,)
+
+create_file(1000, 'f105w', 'f160w', 1.55, 0, 'sn_data_filter_160.csv')
+(Type Ia) (Type Ibc) (Type II)
+(324,) (431,) (245,)
+
+create_file(1000, 'f105w', 'f140w', 1.55, 40, 'sn_data_phase_40.csv')
+(Type Ia) (Type Ibc) (Type II)
+(332,) (431,) (237,)
+
+create_file(1000, 'f105w', 'f160w', 1.55, 40, 'sn_data_filter_160_40.csv')
+(Type Ia) (Type Ibc) (Type II)
+(332,) (448,) (220,)
+
